@@ -1,0 +1,29 @@
+# Security-Note
+I made a mindmap to help review the concepts I learned in Security+
+
+- README.md
+- LICENSE.txt
+- 1_Attacks_Threats_Vulnerabilities/
+  - network_attacks.py
+  - malware_and_attacks.py
+  - vulnerabilities_and_weaknesses.py
+- 2_Architecture_Design/
+  - network_design.py
+  - security_components.py
+  - secure_protocols.py
+  - secure_topologies.py
+- 3_Implementation/
+  - secure_network_configurations.py
+  - host_hardening.py
+  - implement_secure_protocols.py
+  - wireless_security.py
+- 4_Operations_Incident_Response/
+  - monitoring_tools.py
+  - incident_response.py
+  - change_patch_management.py
+  - disaster_recovery.py
+- 5_Governance_Risk_Compliance/
+  - security_policies_procedures.md
+  - risk_management.md
+  - business_impact_analysis.md
+  - compliance_frameworks.md
